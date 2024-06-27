@@ -49,3 +49,9 @@ This project is a Request Management System developed using the MERN (MongoDB, E
 
 4. Start backend development server
      npm run dev
+
+
+
+### .env file content
+   PORT=5000
+   MONGO_URI=mongodb+srv://dinushaweerasekara312:Dinu123@request-db.nd2ihkf.mongodb.net/?retryWrites=true&w=majority&appName=request-db
